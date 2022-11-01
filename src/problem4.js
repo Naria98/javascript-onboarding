@@ -1,6 +1,8 @@
 function problem4(word) {
-  var answer;
-  return answer;
+  let a={a:"z"}
+  
+  console.log(a.a)
+  
 }
-
+problem4('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ')
 module.exports = problem4;
